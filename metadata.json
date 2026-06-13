@@ -1,0 +1,6 @@
+{
+  "name": "Somnio",
+  "description": "Somnio is the world's first AI Dream Social Network. Dream it, create it, share it, live it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
